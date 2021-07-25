@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Prime Calculator</string>
+    <string name="isprime">is Prime?</string>
+    <string name="numberprime"><![CDATA[Number of prime <= n]]></string>
+    <string name="fact">Factorize</string>
+    <string name="euler">Euler totient</string>
+    <string name="twinprime">n-th pair of twin primes</string>
+    <string name="nprime">n-th prime</string>
+    <string name="credits">Prime Calculator is an app made by NP Production di Nicola Rossi e Paolo Campus</string>
+    <string name="Error1">Error: number too big to factorize</string>
+    <string name="prime">Prime</string>
+    <string name="noprime">NOT Prime</string>
+    <string name="insNumber">Insert a number</string>
+    <string name="bigN">Number too big</string>
+    <string name="charging">Loading...</string>
+    <string name="notvalid">Number not valid</string>
+</resources>

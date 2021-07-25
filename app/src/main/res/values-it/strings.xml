@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prime Calculator</string>
+    <string name="credits">Prime Calculator è un\'app creata dalla NP Production di Nicola Rossi e Paolo Campus</string>
+    <string name="euler">Funzione di Eulero</string>
+    <string name="fact">Fattorizza</string>
+    <string name="isprime">È Primo?</string>
+    <string name="nprime">n-esimo primo</string>
+    <string name="numberprime"><![CDATA[Numero di primi <= n]]></string>
+    <string name="twinprime">Coppia N di primi gemelli</string>
+    <string name="Error1">Errore: numero troppo grande da scomporre</string>
+    <string name="bigN">Numero troppo grande</string>
+    <string name="charging">Caricamento...</string>
+    <string name="insNumber">Inserisci un numero</string>
+    <string name="noprime">NON primo</string>
+    <string name="prime">Primo</string>
+    <string name="notvalid">Numero non valido</string>
+</resources>
