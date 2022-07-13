@@ -9,4 +9,7 @@ Project created for the Mobile Programming exam of Computer Engineering at UniRo
 It was implemented a simple calculator that takes an Integer as input and makes some operations about prime number.
 Inside the file "manuale d'uso.pdf" are full explained all the operations.
 
-Software made with NicoRs96 (-github.com/NicoRs96-)
+Software created by NP-Productions, a group formed by <a href="https://github.com/NicoRs96">NicoRs96</a> and I
+
+
+
